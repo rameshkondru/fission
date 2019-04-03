@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  text-align: center;
+
+}
+a{
+color: rgb(222, 230, 222);
+padding-right:50px;
+text-decoration: none;
+/* background-color: aquamarine; */
+/* padding-top:80px; */
+font-size:20px;
+margin: 20px;
+}
+.head{
+background-color: rgb(79, 92, 81);
+padding-top:5px;
+}
+
+#login .container #login-row #login-column #login-box {
+  margin-top:0px;
+  max-width:500px;
+  height: 320px;
+  border: 1px solid #9C9C9C;
+  background-color: #EAEAEA;
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -85px;
+}
+
+.card {
+  width:600px;
+  /* text-align: center; */
+  position: relative;
+  display: -ms-flexbox;
+  top: 20px;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+}
+
+
+
+
