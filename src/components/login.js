@@ -27,7 +27,9 @@ const login = () => {
                             <div id="register-link" class="text-right">
                                 <a href="register.js" class="text-info">Register here</a>
                             </div>
+
                         </form>
+                        <h1>This is ramesh</h1>
                     </div>
                 </div>
             </div>
